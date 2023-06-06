@@ -21,4 +21,5 @@ print(add(2, 3))
 print(multiply(6, 2))
 print(divide(6,0))
 print(subtract(5,9))
+print(mod(12,3))
 
